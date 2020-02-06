@@ -3,6 +3,17 @@ body {
     font-family: "Nunito", sans-serif;
 }
 
+.blurb h2 {
+    color: #f56573;
+}
+.blurb p {
+    color:#cc7979;
+    line-height: 2;
+}
+.content {
+    margin-top: 100px ;
+}
+
 #mainNavbar {
     font-weight: 300;
 }
@@ -18,7 +29,6 @@ body {
 #mainNavbar .navbar-brand {
     color: #f56573;
     font-size: 1.5rem;
-    font-weight: 100;
 }
 
 #headingGroup span {
